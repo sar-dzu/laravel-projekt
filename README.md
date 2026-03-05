@@ -52,7 +52,7 @@
 ### GET /api/sac/books/3?format=A4
 ![GET /api/sac/books/3?format=A4](screenshots/GET-sac-books.png)
 
-## Final task: TimeService
+## TimeService
 
 ### GET /api/time
 ![GET /api/time](screenshots/GET-api-time.png)
