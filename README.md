@@ -1,5 +1,6 @@
 ## REST Resource (BookRestController)
 
+
 ### GET /api/rest/books
 ![GET /api/rest/books](screenshots/GET rest-api-books.png)
 
